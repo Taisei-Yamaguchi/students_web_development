@@ -1,1 +1,3 @@
 merge test manually1
+
+*git pull test1
